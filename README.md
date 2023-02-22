@@ -1,2 +1,2 @@
-# SRF_JS
-Student Registration Form using Javascript
+# https://ashutosh621.github.io/SRF_JS/
+Simple Student Registration Form using Javascript
